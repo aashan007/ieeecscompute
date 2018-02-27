@@ -193,7 +193,7 @@
 $(function() {
 	$(window).scroll(function () {
 if ($(window).scrollTop() >= 800) {
-$('.navbar-default').css('background','#443d3d');
+$('.navbar-default').css('background','#222');
 } else {
 $('.navbar-default').css('background','transparent');
 }
